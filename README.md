@@ -1,0 +1,1 @@
+# smartbank-user-account-service
